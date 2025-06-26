@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+*.env
+
+# Data and artifacts
+data/
+artifacts/
+*.csv
+*.pkl
+*.joblib
+
+# Logs
+*.log
+
+# MacOS & Windows
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Docker
+*.container
+*.log
+*.pid
+
+# Pytest
+.cache/
+
+# MyPy
+.mypy_cache/
+
+# Others
+*.sqlite
