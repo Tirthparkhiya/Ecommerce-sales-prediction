@@ -16,8 +16,6 @@ env/
 # Data and artifacts
 data/
 artifacts/
-*.csv
-*.pkl
 *.joblib
 
 # Logs
